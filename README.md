@@ -1,1 +1,1 @@
-# Javalabs
+# java_beginner
